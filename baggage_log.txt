@@ -1,0 +1,2 @@
+Bagage ID: BAG123 | Passager: John | Fly: Flight 101 | Status: Lastet på flyet
+Bagage ID: BAG234 | Passager: Jens | Fly: Flight 102 | Status: Lastet på flyet
